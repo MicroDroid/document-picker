@@ -1,0 +1,1 @@
+{"version":3,"names":["NativeDocumentPicker","bookmarkToURI","bookmark"],"sourceRoot":"../../src","sources":["bookmark.ts"],"mappings":";;AAAA,SAASA,oBAAoB,QAAQ,gCAA6B;;AAElE;AACA;AACA;AACA;AACA,OAAO,MAAMC,aAAa,GAAG,MAAOC,QAAgB,IAAsB;EACxE,OAAOF,oBAAoB,CAACC,aAAa,CAACC,QAAQ,CAAC;AACrD,CAAC","ignoreList":[]}
